@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:kml xmlns:ns0="http://www.opengis.net/kml/2.2">
+  <ns0:Document>
+    <ns0:Folder>
+      <ns0:name>КТ_и_ПБС</ns0:name>
+        <ns0:Style id="КТ">
+            <ns0:IconStyle>
+                <ns0:color>FF011DF0</ns0:color>
+                <ns0:scale>0.5</ns0:scale>
+                <ns0:Icon>
+                    <ns0:href>http://maps.google.com/mapfiles/kml/shapes/donut.png</ns0:href>
+                </ns0:Icon>
+                <ns0:hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+            </ns0:IconStyle>
+            <ns0:LabelStyle>
+                <ns0:scale>0</ns0:scale>
+            </ns0:LabelStyle>
+        </ns0:Style>
+        <ns0:Style id="ПБС">
+            <ns0:IconStyle>
+                <ns0:scale>0.03</ns0:scale>
+                <ns0:Icon>
+                    <ns0:href>https://cdn.vseinstrumenti.ru/images/goods/4472406/1000x1000/63242250.jpg</ns0:href>
+                </ns0:Icon>
+                <ns0:hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+            </ns0:IconStyle>
+            <ns0:LabelStyle>
+                <ns0:scale>0</ns0:scale>
+            </ns0:LabelStyle>
+        </ns0:Style>
+        <ns0:Style id="ГГС">
+            <ns0:IconStyle>
+                <ns0:scale>0.02</ns0:scale>
+                <ns0:Icon>
+                    <ns0:href>https://cdn0.iconfinder.com/data/icons/smashicons-design-flat-vol-2/58/94_-_Triangle_design_graphic_tool-1024.png</ns0:href>
+                </ns0:Icon>
+                <ns0:hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+            </ns0:IconStyle>
+            <ns0:LabelStyle>
+                <ns0:scale>0</ns0:scale>
+            </ns0:LabelStyle>
+        </ns0:Style>
+    <Folder name="R10"><name>R10</name><Folder name="2023_09_22"><name>2023_09_22</name><ns0:Placemark>
+<ns0:name>опознаки 001</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;001&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на газоне&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_120948618.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_121000986.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_121012753.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Череповец&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.89673537015915,59.13715873711532,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 002</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;002&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;крышка люка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;черный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;квадратная крышка люка у переезда&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124838502.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124845086.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124852848.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.89873830974102,59.14126736770119,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 003</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;003&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;асфальт&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;крест&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;крест белого цвета на тротуаре&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125621856.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125627555.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125633090.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.88797292858362,59.142235378037746,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 004</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;004&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130529593.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130536340.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130543255.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.87548556923866,59.14241336239183,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 005</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;005&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;люк&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131946113.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131951830.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131958919.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.85195253789425,59.14158809186979,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 006</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 6&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;006&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;люк&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;крышка люка на пешеходной зоне&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153100525.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153106406.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153112032.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.87752639502287,59.135559178734816,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_23"><name>2023_09_23</name><ns0:Placemark>
+<ns0:name>опознаки 001</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;001&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на газоне&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_120948618.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_121000986.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_121012753.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Череповец&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.89673537015915,59.13715873711532,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 002</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;002&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;крышка люка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;черный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;квадратная крышка люка у переезда&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124838502.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124845086.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_124852848.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.89873830974102,59.14126736770119,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 003</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;003&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;асфальт&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;крест&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;крест белого цвета на тротуаре&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125621856.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125627555.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_125633090.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.88797292858362,59.142235378037746,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 004</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;004&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130529593.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130536340.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_130543255.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.87548556923866,59.14241336239183,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 005</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;005&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;люк&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131946113.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131951830.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_131958919.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.85195253789425,59.14158809186979,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 006</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 6&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;006&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;люк&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;крышка люка на пешеходной зоне&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153100525.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153106406.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/Cherepovec_03.02.23_20230203_153112032.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>37.87752639502287,59.135559178734816,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_24"><name>2023_09_24</name><ns0:Placemark>
+<ns0:name>опознаки P02</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;P02&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ПБ, Контрольная точка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на краю поля.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114857855.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114904606.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114918405.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ПБС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.92310662567616,48.87207952626889,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_25"><name>2023_09_25</name><ns0:Placemark>
+<ns0:name>опознаки P02</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;P02&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ПБ, Контрольная точка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на краю поля.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114857855.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114904606.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_24_Sahkalin_20230924_114918405.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ПБС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.92310662567616,48.87207952626889,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_26"><name>2023_09_26</name><ns0:Placemark>
+<ns0:name>Opoznaki Пригорочный</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Пригорочный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Макаров&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;Верхушка горы&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_075914132.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_075935966.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_075950809.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.78841245919463,48.63715316933107,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Солянка</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Солянка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Макаров&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_185850584.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_185909899.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_23.3.047G.R.Sahkalin_20230926_185921058.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7516745775938,48.61787651737923,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_26"><name>2023_09_26</name><ns0:Placemark>
+<ns0:name>опознаки Р03</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Р03&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ПБ, КТ&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на поле&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_110746205.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_110753339.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_110807013.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.06819837540388,49.20604950547359,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки Р01</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Р01&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ПБ, Контрольная точка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;тарелка белого цвета на поле&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_144423337.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_144430127.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_26_Sahkalin_20230926_144437755.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.78647892177105,48.62979931328013,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_27"><name>2023_09_27</name><ns0:Placemark>
+<ns0:name>опознаки PORN</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;PORN&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Пункт ГГС Поронайск&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;черный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;марка на крыше здания&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_092306921.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_092314924.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_092325425.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ПБС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.11748899519444,49.22777094111913,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки RIBK</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;RIBK&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Пункт ГГС Рыбак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;черный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;марка в яме окопанная на берегу моря&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_101243529.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_101304016.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_101316267.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.00015408545732,49.14371914953978,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки GRAV</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;GRAV&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_114013664.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_114027307.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_114037137.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.96372767537832,49.091858616831296,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки SOSV</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;SOSV&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_133532692.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_133545680.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_133601031.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.89361204952002,49.24204682199096,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки MDRN</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;MDRN&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_151239468.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_151821925.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_151839083.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.04051965475082,49.17934673243559,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 001</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 6&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;001&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;асфальт&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;круг&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;белый с красной окантовкой&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;белый круг с красной окантовкой на краю дороги.&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_163042067.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_163050506.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_163105695.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.06636039167643,49.199571567512784,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 013</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 7&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;013&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_171259847.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_171311958.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_171318914.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.0846969783306,49.20921379373847,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 007</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 8&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;007&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172421862.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172427978.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172433459.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.0767921730876,49.2157482863649,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 005</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 9&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;005&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172917438.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172925260.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_172931886.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.06416936218739,49.22581433580599,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 004</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 10&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;004&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_173554066.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_173559988.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_173605649.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.08759678155184,49.233610299132735,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 003</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 11&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;003&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_174750355.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_174759309.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_174805828.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.1094715371728,49.23542780104135,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 008</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 12&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;008&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_175727051.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_175732683.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_175737956.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.08299344033003,49.226700685860735,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 012</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 13&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;012&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180230371.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180235568.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180241844.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.09539429843426,49.22608168763301,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 011</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 14&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;011&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180735885.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180741067.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_180745775.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.10535836964846,49.22118154050169,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 009</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 15&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;009&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181144838.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181151133.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181156692.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.0965694412589,49.2161891446063,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 010</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 16&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;010&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181827858.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181832733.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_181837662.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.1069378554821,49.22908376758596,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 002</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 17&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;002&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_182623274.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_182628553.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_27_Sahkalin_20230927_182633682.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>143.11874192208052,49.226104459548175,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_28"><name>2023_09_28</name><ns0:Placemark>
+<ns0:name>опознаки 041</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;041&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Контрольная точка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;бетон&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;круг&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;красный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;круг красного цвета на бетонной площадке&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_151658724.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_151706089.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_151713056.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.77851544320583,48.63437075525874,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 033</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;033&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154034106.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154040720.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154048106.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7709013223648,48.634587451401394,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 032</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;032&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154635122.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154641437.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_154649307.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.78947595506907,48.63247539983711,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 036</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;036&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_155109644.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_155115489.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_155122993.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.78610341250896,48.62212325181044,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 034</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;034&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_160316353.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_160322326.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_160328698.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7792527154088,48.607700055678684,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 035</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 6&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;035&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_160952031.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_160957924.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_161005290.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7785737812519,48.617425692278104,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 037</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 7&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;037&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_161518510.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_161525738.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_161535628.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.77816139161587,48.62170770330653,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 038</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 8&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;038&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162018005.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162023870.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162030132.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.77910955250263,48.62549516288486,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 039</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 9&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;039&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162620383.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162626130.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_162637276.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.76700843125582,48.627694152497284,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 042</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 10&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;042&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_163447475.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_163454598.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_163500554.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7749853208661,48.63029678318335,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 040</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 11&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;040&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164026770.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164033560.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164041728.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7559071034193,48.633956858608286,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 030</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 12&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;030&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164629643.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164635408.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_164642176.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.75031100958586,48.64006525616656,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 043</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 13&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;043&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_165615458.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_165623702.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_165629684.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.7853849157691,48.62494401543155,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>опознаки 031</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: опознаки&lt;/h4&gt;&lt;h4&gt;Feature ID: 14&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;031&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_170510845.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_170516363.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_28_Sahkalin_20230928_170522654.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.79267314821482,48.63950917222962,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_29"><name>2023_09_29</name><ns0:Placemark>
+<ns0:name>Opoznaki 17</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_104400772.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_104432442.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_104440950.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.90964864194393,48.86128872056346,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 19</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Пластик&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_111354464.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_111359776.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_111409493.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.90846578776836,48.87460668259002,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 20</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_112811694.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_112819468.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_112827260.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9315810650587,48.88010424000671,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 26</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_113340632.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_113347574.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_113357210.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.93995894491673,48.88624340573307,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 27</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;27&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114029420.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114036808.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114050752.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.93520003557205,48.883622253847435,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 25</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 6&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Крест&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114628229.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114633373.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_114640193.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9433288052678,48.88290239963091,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 28</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 7&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115131452.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115137552.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115145513.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.94789392501116,48.88596275569789,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 24</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 8&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Тарелка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Красный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115924295.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115931099.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_115937080.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9717417806387,48.88893320100141,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 15</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 9&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_120623049.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_120631812.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_120640526.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.95457161962986,48.888524703588246,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 14</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 10&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121259000.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121310391.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121318337.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.96347554773092,48.89866582761804,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 23</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 11&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121834879.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121844717.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_121853970.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.95854095369577,48.88115640695958,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 21</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 12&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;21&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122338383.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122352308.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122358540.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.94802904129025,48.86860877843017,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 18</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 13&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;250&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Крест&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122856972.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122905677.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_122913184.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.92073655873537,48.85038792498659,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 22</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 14&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_123714400.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_123723154.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_123731012.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9141889512539,48.832943480186536,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki 16</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 15&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Опознак&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Разметка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Белый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_130651256.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_130705447.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_130714490.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#КТ</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9026259481907,48.804558565881386,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Марковка</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 16&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Марковка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_142836806.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_142846943.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_142856764.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.89952028542757,48.79981197645498,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Саймонова</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 18&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Саймонова&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_161154513.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_161203565.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_161223606.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.98468679189682,48.92950396715341,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Морская</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 19&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Морская&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Краска&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_182503789.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_182522516.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_29_23.3.047G.R.SAHKALIN_20230929_182544999.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.90045134723186,48.84577077826729,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder><Folder name="2023_09_30"><name>2023_09_30</name><ns0:Placemark>
+<ns0:name>Opoznaki Южн.Базисный</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 1&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Южн.Базисный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Макаров&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Красный&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_103423846.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_103434259.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_103443977.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.782419398427,48.61717922178902,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Приморский</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 2&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Приморский&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Макаров&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_111425944.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_111443206.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_111455067.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.77685146778822,48.61058701962582,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Гарь</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 3&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Гарь&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Макаров&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_131221765.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_131238705.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_131249965.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.82213486731055,48.70633929421169,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Горянка</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 4&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Горянка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_175236244.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_175242919.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_175250140.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9768678173423,48.95329935537714,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+<ns0:Placemark>
+<ns0:name>Opoznaki Электростанция</ns0:name>
+<ns0:description> &lt;h4&gt;Layer: Opoznaki&lt;/h4&gt;&lt;h4&gt;Feature ID: 5&lt;/h4&gt;&lt;p&gt;Remarks: &lt;/p&gt;&lt;table border='1'&gt; &lt;tr&gt;&lt;td&gt;Исполнитель&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Имя&lt;/td&gt;&lt;td&gt;Электростанция&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Населённый пункт&lt;/td&gt;&lt;td&gt;Новое&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Шифр&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;ГГС&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Материал&lt;/td&gt;&lt;td&gt;Металл&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Размер знака&lt;/td&gt;&lt;td&gt;Без размера&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид&lt;/td&gt;&lt;td&gt;Марка&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Цвет&lt;/td&gt;&lt;td&gt;Коричневый&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Описание местности&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Надир&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_193034559.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид сбоку&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_193046538.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Вид с прибором&lt;/td&gt;&lt;td&gt;&lt;img src='files/2023_09_30_23.3.047G.R.Sakhalin_20230930_193123145.jpg' width='200' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ns0:description>
+<ns0:styleUrl>#ГГС</ns0:styleUrl>
+<ns0:Point>
+<ns0:coordinates>142.9505033791065,48.97807366899548,0.0</ns0:coordinates>
+</ns0:Point>
+</ns0:Placemark>
+</Folder></Folder></ns0:Folder>
+  </ns0:Document>
+</ns0:kml>
