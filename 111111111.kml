@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="111111111" id="111111111">
+	<SimpleField name="heights, m" type="string"></SimpleField>
+	<SimpleField name="Owner" type="string"></SimpleField>
+	<SimpleField name="Contacts" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+</Schema>
+<Folder><name>111111111</name>
+  <Placemark>
+	<name>ULP1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">от земли до 4800 м</SimpleData>
+		<SimpleData name="Owner">Гл.упp.охpаны</SimpleData>
+		<SimpleData name="Contacts">Тел.: (495) 910-22-57, 910-19-08, тел/факс: (495) 910-22-56</SimpleData>
+		<SimpleData name="Address">г.Москва, 109012</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.3333333333333,57.9166666666667 33.25,58.0 33.2666666666667,58.0333333333333 33.3833333333333,58.0666666666667 33.4333333333333,58.0 33.3333333333333,57.9166666666667</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 9999 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>39.5333333333333,62.8 40.3,62.95 41.3833333333333,63.2666666666667 42.0333333333333,62.8666666666667 41.3666666666667,62.6666666666667 40.4166666666667,62.4833333333333 39.7,62.6666666666667 39.5333333333333,62.8</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 6005 м от земли</SimpleData>
+		<SimpleData name="Owner">ТГК-1</SimpleData>
+		<SimpleData name="Contacts">т. (812) 901-3333, моб. (921) 870-4307</SimpleData>
+		<SimpleData name="Address">197198, Санкт-Петербург, пр. Добролюбова, д. 16, к.2, литера А</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>28.2033333333333,59.3933333333333 28.2110928022433,59.3935261112762 28.2361349809248,59.3870290689817 28.2560085664493,59.3769072079293 28.2687681937983,59.3641486162097 28.2731648617453,59.35 28.2687681937983,59.3358454852895 28.2560085664493,59.323071451095 28.2361349809248,59.312930502095 28.2110928022433,59.3064180173277 28.1833333333333,59.3041736790856 28.1555738644234,59.3064180173277 28.1516666666667,59.3077777777778 28.150729623017,59.3086858265569 28.1522506214048,59.3108068231372 28.1550753326966,59.3147989284314 28.1587691859242,59.3191231802742 28.160290184312,59.3225600137523 28.1626803246358,59.3256639517738 28.1657223214115,59.3300976572275 28.1665914633474,59.3337550287603 28.1683297472192,59.3353065219886 28.1737618843186,59.3374120066131 28.1818014472258,59.340846990855 28.1881027262612,59.3438384683021 28.1917965794888,59.3468296822621 28.1904928665849,59.3525897964428 28.1949472190065,59.3539742935909 28.1984237867501,59.3557463675492 28.1990213218311,59.3566323698382 28.2007596057029,59.3578782714299 28.1989126790891,59.3612281355713 28.2019003544938,59.3628891026051 28.2047250657855,59.3638025998222 28.2058114932054,59.3642731797006 28.2062460641733,59.3647714336354 28.2055942077214,59.3662938308833 28.2054312436084,59.3666813392765 28.2060831000604,59.3672349150182 28.2101028815139,59.3703901242852 28.2098584353445,59.3713726076067 28.2085004010696,59.3723273880789 28.2032040673976,59.3743475596206 28.2029867819137,59.3750255354331 28.2038559238496,59.3767273333824 28.2054855649794,59.3781523505286 28.2075226163917,59.3789962644919 28.2085275617551,59.3801445071418 28.2091658378643,59.3814033791023 28.2088263292956,59.3827624933409 28.2085818831261,59.3837342439132 28.2080454595875,59.3842875414043 28.2068164385688,59.3855255118387 28.2058386538909,59.3864971832253 28.204589262358,59.3877661925309 28.2036590088797,59.3888000369326 28.2017577608949,59.3905080586074 28.199401571428,59.3923542848385 28.2033333333333,59.3933333333333</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 6005 м от земли</SimpleData>
+		<SimpleData name="Owner">ФГУП «СКЦ Росатома»</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, (499) 949-23-61; Факс: (495) 933-60-45, (499) 949-24-35; dispatcher@skc.ru</SimpleData>
+		<SimpleData name="Address">119017, г. Москва, ул. Б.Ордынка, 24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>32.4833333333333,67.5010670654068 32.5110928022433,67.4993845494353 32.5361349809248,67.4945010224628 32.5560085664493,67.4868927494695 32.5687681937983,67.4773022941913 32.5731648617453,67.4666666666667 32.5687681937983,67.456026278567 32.5560085664493,67.4464233599413 32.5361349809248,67.4387996814031 32.5110928022433,67.4339036910828 32.4833333333333,67.432216414536 32.4555738644234,67.4339036910828 32.4305316857419,67.4387996814031 32.4106581002174,67.4464233599413 32.3978984728684,67.456026278567 32.3935018049214,67.4666666666667 32.3978984728684,67.4773022941913 32.4106581002174,67.4868927494695 32.4305316857419,67.4945010224628 32.4555738644234,67.4993845494353 32.4833333333333,67.5010670654068</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 6005 м от земли</SimpleData>
+		<SimpleData name="Owner">Каскад Вуоксинских ГЭС</SimpleData>
+		<SimpleData name="Contacts">т. 8(81378)42-390, kaskad1@tgc1.ru</SimpleData>
+		<SimpleData name="Address">188990, Ленинградская обл., г. Светогорск, ул. Каскадная, д. 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>28.9,61.1267404068349 28.92775946891,61.1246172999891 28.9528016475914,61.118454996101 28.9726752331159,61.1088545891406 28.9854348604649,61.0967532184101 28.989831528412,61.0833333333333 28.9854348604649,61.0699077558201 28.9726752331159,61.0577914820978 28.9528016475914,61.0481726540271 28.92775946891,61.0419954471486 28.9,61.0398666478672 28.87224053109,61.0419954471486 28.8471983524086,61.0481726540271 28.8273247668841,61.0577914820978 28.8145651395351,61.0699077558201 28.810168471588,61.0833333333333 28.8145651395351,61.0967532184101 28.8273247668841,61.1088545891406 28.8471983524086,61.118454996101 28.87224053109,61.1246172999891 28.9,61.1267404068349</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 6005 м от земли</SimpleData>
+		<SimpleData name="Owner">ППО Каскад Ладожских ГЭС ТГК-1</SimpleData>
+		<SimpleData name="Contacts">т. 8(81365)20-235</SimpleData>
+		<SimpleData name="Address">187780, Ленинградская обл., г. Поднорожье, ул. Энергетиков, д. 3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>34.2166666666667,60.960302177781 34.2444261355766,60.958167895459 34.2694683142581,60.9519731561283 34.2893418997826,60.9423222210501 34.3021015271316,60.9301571660374 34.3064981950786,60.9166666666667 34.3021015271316,60.9031704541277 34.2893418997826,60.8909904418469 34.2694683142581,60.8813210185695 34.2444261355766,60.875111321972 34.2166666666667,60.8729713264827 34.1889071977567,60.875111321972 34.1638650190752,60.8813210185695 34.1439914335507,60.8909904418469 34.1312318062017,60.9031704541277 34.1268351382547,60.9166666666667 34.1312318062017,60.9301571660374 34.1439914335507,60.9423222210501 34.1638650190752,60.9519731561283 34.1889071977567,60.958167895459 34.2166666666667,60.960302177781</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 6005 м от земли</SimpleData>
+		<SimpleData name="Owner">ФГУП «СКЦ Росатома»</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, (499) 949-23-61; Факс: (495) 933-60-45, (499) 949-24-35; dispatcher@skc.ru</SimpleData>
+		<SimpleData name="Address">119017, г. Москва, ул. Б.Ордынка, 24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>29.0333333333333,59.8784446215719 29.0610928022433,59.8762381412894 29.0861349809248,59.8698338568288 29.1060085664493,59.859856492796 29.1187681937983,59.8472800183517 29.1231648617453,59.8333333333333 29.1187681937983,59.8193808051348 29.1060085664493,59.8067890330469 29.0861349809248,59.7967927600879 29.0610928022433,59.7903731779855 29.0333333333333,59.7881608545239 29.0055738644234,59.7903731779855 28.9805316857419,59.7967927600879 28.9606581002174,59.8067890330469 28.9478984728684,59.8193808051348 28.9435018049214,59.8333333333333 28.9478984728684,59.8472800183517 28.9606581002174,59.859856492796 28.9805316857419,59.8698338568288 29.0055738644234,59.8762381412894 29.0333333333333,59.8784446215719</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 2103 м от земли</SimpleData>
+		<SimpleData name="Owner">ФИЛИАЛ ПАО &quot;ТГК-1&quot;</SimpleData>
+		<SimpleData name="Contacts">т. 8(81553)69-311,75-544,69-371</SimpleData>
+		<SimpleData name="Address">184355, Мурманская обл., Кольский р-н, п. Мурмаши, ул. Советская, д. 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>31.7666666666667,68.6363099267891 31.7833223480126,68.6353489176572 31.7983476552215,68.6325597272046 31.8102718065362,68.6282147698994 31.8179275829456,68.622738605108 31.8205655837138,68.6166666666667 31.8179275829456,68.6105930844172 31.8102718065362,68.6051126160803 31.7983476552215,68.6007623393003 31.7833223480126,68.5979688453022 31.7666666666667,68.5970061923621 31.7500109853207,68.5979688453022 31.7349856781118,68.6007623393003 31.7230615267971,68.6051126160803 31.7154057503877,68.6105930844172 31.7127677496195,68.6166666666667 31.7154057503877,68.622738605108 31.7230615267971,68.6282147698994 31.7349856781118,68.6325597272046 31.7500109853207,68.6353489176572 31.7666666666667,68.6363099267891</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP9</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 488 м от земли</SimpleData>
+		<SimpleData name="Owner">филиал «Северо-западная ТЭЦ»</SimpleData>
+		<SimpleData name="Contacts">т. (812) 406-76-76, ф. 406-76-77</SimpleData>
+		<SimpleData name="Address">197229, г.Санкт-Петербург, п. Ольгино, ул. 3-я Конная Лахта, д. 34</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.1,60.0116666666666 30.0802777777778,60.0116666666666 30.0797222222222,60.0180555555555 30.1002777777778,60.0177777777778 30.1,60.0116666666666</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">Губернатор Санкт-Петербурга</SimpleData>
+		<SimpleData name="Contacts">т. (812) 576-45-01, ф. (812) 576-78-27</SimpleData>
+		<SimpleData name="Address">191060, г. Санкт-Петербург, Смольный</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3072222222222,59.9488888888889 30.3047222222222,59.9472222222222 30.2941666666667,59.9475 30.2863888888889,59.9497222222222 30.2894444444444,59.9525 30.285,59.9530555555555 30.2788888888889,59.9558333333333 30.2755555555556,59.9597222222222 30.2638888888889,59.9633333333333 30.2644444444444,59.9638888888889 30.2777777777778,59.965 30.2816666666667,59.9663888888889 30.2844444444444,59.9713888888889 30.2927777777778,59.9736111111111 30.3016666666667,59.9769444444444 30.3088888888889,59.9786111111111 30.3175,59.9786111111111 30.3208333333333,59.9777777777778 30.3261111111111,59.9752777777778 30.3283333333333,59.9730555555556 30.3327777777778,59.9675 30.3347222222222,59.965 30.3352777777778,59.96 30.3352777777778,59.9588888888889 30.3358333333333,59.9566666666667 30.3383333333333,59.9541666666667 30.3247222222222,59.9511111111111 30.3230555555556,59.9527777777778 30.3163888888889,59.9527777777778 30.3116666666667,59.9516666666667 30.3075,59.9488888888889 30.3072222222222,59.9488888888889</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP11</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">Губернатор Санкт-Петербурга</SimpleData>
+		<SimpleData name="Contacts">т. (812) 576-45-01, ф. (812) 576-78-27</SimpleData>
+		<SimpleData name="Address">191060, г. Санкт-Петербург, Смольный</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.2761111111111,59.9502777777777 30.2841666666667,59.9480555555556 30.2930555555556,59.9458333333333 30.3058333333333,59.945 30.3077777777778,59.9441666666667 30.3072222222222,59.9422222222222 30.3019444444444,59.94 30.2886111111111,59.9361111111111 30.2838888888889,59.9355555555556 30.2805555555556,59.9347222222222 30.275,59.9322222222222 30.2702777777778,59.9288888888889 30.2677777777778,59.9261111111111 30.2511111111111,59.9405555555555 30.2452777777778,59.9386111111111 30.2383333333333,59.9441666666667 30.2522222222222,59.9475 30.2544444444444,59.9466666666667 30.2602777777778,59.9486111111111 30.2622222222222,59.9483333333333 30.2647222222222,59.9475 30.2711111111111,59.9497222222222 30.2761111111111,59.9502777777777</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP12</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">Губернатор Санкт-Петербурга</SimpleData>
+		<SimpleData name="Contacts">т. (812) 576-45-01, ф. (812) 576-78-27</SimpleData>
+		<SimpleData name="Address">191060, г. Санкт-Петербург, Смольный</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.2986111111111,59.9358333333333 30.3269444444444,59.9458333333333 30.3458333333333,59.95 30.3522222222222,59.9502777777777 30.3636111111111,59.95 30.3693070398068,59.950725335635 30.3760761862089,59.9526214319821 30.3816666666667,59.9547222222222 30.3852777777778,59.9561111111111 30.3897222222222,59.9563888888889 30.395,59.9544444444445 30.3975,59.9527777777778 30.3994444444444,59.9516666666667 30.4005555555556,59.9488888888889 30.3983333333333,59.9411111111111 30.3911111111111,59.9325 30.3894444444444,59.9286111111111 30.3927777777778,59.9233333333333 30.3986111111111,59.9197222222222 30.3925,59.9180555555555 30.3747222222222,59.915 30.3669444444444,59.9141666666667 30.3630555555556,59.9138888888889 30.3586111111111,59.9141666666667 30.345,59.9161111111111 30.3411111111111,59.9161111111111 30.3344444444444,59.9138888888889 30.3202777777778,59.9086111111111 30.2605555555556,59.9091666666666 30.2625,59.9127777777778 30.2630555555556,59.9155555555556 30.2652777777778,59.9169444444444 30.2663888888889,59.9186111111111 30.2755555555556,59.9297222222222 30.2811111111111,59.9316666666667 30.2911111111111,59.9333333333333 30.2986111111111,59.9358333333333</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 2012 м от земли</SimpleData>
+		<SimpleData name="Owner">Росатом</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, 949-23-61, ф. (495) 933-60-45</SimpleData>
+		<SimpleData name="Address">119017, Москва, ул. Большая Ордынка, 24/26</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>32.45,69.48150994376 32.47775946891,69.4799688138882 32.5028016475914,69.4754956536285 32.5226752331159,69.4685266847887 32.5354348604649,69.4597420477945 32.539831528412,69.45 32.5354348604649,69.4402535315871 32.5226752331159,69.4314573212635 32.5028016475914,69.4244740470014 32.47775946891,69.4199893134115 32.45,69.4184437629209 32.42224053109,69.4199893134115 32.3971983524086,69.4244740470014 32.3773247668841,69.4314573212635 32.3645651395351,69.4402535315871 32.360168471588,69.45 32.3645651395351,69.4597420477945 32.3773247668841,69.4685266847887 32.3971983524086,69.4754956536285 32.42224053109,69.4799688138882 32.45,69.48150994376</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP14</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 457 м от земли</SimpleData>
+		<SimpleData name="Owner">в/ч 09436</SimpleData>
+		<SimpleData name="Contacts">т. (473) 255-96-67</SimpleData>
+		<SimpleData name="Address">394000 г. Воронеж, пр-т Революции, 8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.9188888888889,68.1194899490398 33.9272167295619,68.1189983890873 33.9347293831663,68.1175717670833 33.9406914588237,68.1153495750535 33.9445193470284,68.1125491441877 33.9458383474125,68.1094444444444 33.9445193470284,68.1063393259474 33.9406914588237,68.1035377987699 33.9347293831663,68.1013142516242 33.9272167295619,68.0998865333085 33.9188888888889,68.0993945546022 33.9105610482159,68.0998865333085 33.9030483946115,68.1013142516242 33.8970863189541,68.1035377987699 33.8932584307494,68.1063393259474 33.8919394303653,68.1094444444444 33.8932584307494,68.1125491441877 33.8970863189541,68.1153495750535 33.9030483946115,68.1175717670833 33.9105610482159,68.1189983890873 33.9188888888889,68.1194899490398</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP15</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 2012 м от земли</SimpleData>
+		<SimpleData name="Owner">Росатом</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, 949-23-61, ф. (495) 933-60-45</SimpleData>
+		<SimpleData name="Address">119017, Москва, ул. Большая Ордынка, 24/26</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.2083333333333,69.2583333333333 33.2583333333333,69.2583333333333 33.2571620271678,69.2348999665876 33.2083333333333,69.235 33.2083333333333,69.2583333333333</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP17</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">ФГБУ «ПИЯФ</SimpleData>
+		<SimpleData name="Contacts">т./ф. (81371) 4-60-25</SimpleData>
+		<SimpleData name="Address">188300, г. Гатчина Ленинградской области, Орлова Роща</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.1097222222222,59.6233778743686 30.1263779035682,59.6220438589018 30.1414032107771,59.6181720951915 30.1533273620918,59.6121407928695 30.1609831385012,59.6045393666377 30.1636211392694,59.5961111111111 30.1609831385012,59.5876807421899 30.1533273620918,59.5800737830192 30.1414032107771,59.5740356416088 30.1263779035682,59.5701583449598 30.1097222222222,59.5688222160986 30.0930665408762,59.5701583449598 30.0780412336673,59.5740356416088 30.0661170823526,59.5800737830192 30.0584613059433,59.5876807421899 30.055823305175,59.5961111111111 30.0584613059433,59.6045393666377 30.0661170823526,59.6121407928695 30.0780412336673,59.6181720951915 30.0930665408762,59.6220438589018 30.1097222222222,59.6233778743686</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP18</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 10973 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>60.6666666666667,76.5 64.0,75.5 57.0,72.5833333333333 57.0,70.8333333333333 55.5,70.1666666666667 50.5,71.6666666666667 54.8333333333333,75.3333333333333 60.6666666666667,76.5</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP20</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>38.5483333333333,59.1119444444444 38.7872222222222,59.2213888888889 38.8883333333333,59.2211111111111 38.8705555555556,59.1802777777778 38.6458333333333,59.0716666666667 38.5547222222222,59.0772222222222 38.5483333333333,59.1119444444444</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP21</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 4572 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.8272222222222,68.2605555555556 33.8805555555556,68.2605555555556 33.9091666666667,68.2225 33.875,68.2127777777778 33.8272222222222,68.2272222222222 33.8272222222222,68.2605555555556</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP22</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 914 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3097222222222,58.1466666666667 30.3213888888889,58.1525 30.335,58.155 30.3438888888889,58.1480555555555 30.3241666666667,58.1405555555555 30.3144444444444,58.1419444444444 30.3097222222222,58.1466666666667</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP23</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 488 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.3983333333333,68.1372222222222 33.4413888888889,68.14 33.4291666666667,68.1272222222222 33.4038888888889,68.125 33.3983333333333,68.1372222222222</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP24</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 914 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.6425,69.0152777777778 33.6644444444444,69.0125 33.6588888888889,69.0002777777778 33.63,69.0036111111111 33.6425,69.0152777777778</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP25</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 457 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.4572222222222,69.095 33.47,69.0952777777778 33.4705555555555,69.0936111111111 33.4644444444444,69.0916666666667 33.4575,69.0922222222222 33.4572222222222,69.095</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP26</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 1524 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.3102777777778,69.2625 33.3519444444444,69.2736111111111 33.3783333333333,69.2463888888889 33.3241666666667,69.2475 33.3102777777778,69.2625</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP27</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 488 м от земли</SimpleData>
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.603051893782,57.8765870542598 33.6080603295183,57.8752300558306 33.6120350466232,57.8731163792739 33.614586972093,57.8704528146101 33.6154663056824,57.8675 33.614586972093,57.8645469430841 33.6120350466232,57.8618827440554 33.6080603295183,57.8597682833807 33.603051893782,57.8584106505868 33.5975,57.8579428303466 33.591948106218,57.8584106505868 33.5869396704817,57.8597682833807 33.5829649533768,57.8618827440554 33.580413027907,57.8645469430841 33.5795336943176,57.8675 33.580413027907,57.8704528146101 33.5829649533768,57.8731163792739 33.5869396704817,57.8752300558306 33.591948106218,57.8765870542598 33.5975,57.8770546321942 33.603051893782,57.8765870542598</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 1006 м от земли</SimpleData>
+		<SimpleData name="Owner">ФГУП «СКЦ Росатома»</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, (499) 949-23-61; Факс: (495) 933-60-45, (499) 949-24-35; dispatcher@skc.ru</SimpleData>
+		<SimpleData name="Address">119017, г. Москва, ул. Б.Ордынка, 24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.0633719627014,69.0516317973158 33.0665517363854,69.0527686212523 33.0705584849744,69.0534984760906 33.075,69.0537499613023 33.0794415150256,69.0534984760906 33.0834482636146,69.0527686212523 33.0866280372986,69.0516317973158 33.0886695776744,69.0501992316857 33.0893730445459,69.0486111111111 33.0886695776744,69.0470228755623 33.0866280372986,69.0455900089255 33.0834482636146,69.0444528129245 33.0794415150256,69.0437226570796 33.075,69.0434710568936 33.0705584849744,69.0437226570796 33.0665517363854,69.0444528129245 33.0633719627014,69.0455900089255 33.0613304223256,69.0470228755623 33.0606269554541,69.0486111111111 33.0613304223256,69.0501992316857 33.0633719627014,69.0516317973158</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP30</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 91 м от земли</SimpleData>
+		<SimpleData name="Owner">Санкт-Петербургский монетный двор</SimpleData>
+		<SimpleData name="Contacts">т. (812) 324-14-28</SimpleData>
+		<SimpleData name="Address">197046, Санкт-Петербург, территория Петропавловская крепость, д. 6, лит. А</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3141666666667,59.9502777777777 30.315,59.9494444444444 30.3155555555556,59.9497222222222 30.3161111111111,59.9488888888889 30.3136111111111,59.9488888888889 30.3127777777778,59.9497222222222 30.3141666666667,59.9502777777777</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP34</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 1985 м от земли</SimpleData>
+		<SimpleData name="Owner">ООО «ПО Киришинефтеоргсинтез», промышленная площадка НПЗ</SimpleData>
+		<SimpleData name="Contacts">т.(81368) 91-231</SimpleData>
+		<SimpleData name="Address">187110, Ленинградская обл., г. Кириши, ш. Энтузиастов, д. 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>32.0758333333333,59.5104139685033 32.0924890146793,59.5090754685138 32.1075143218882,59.5051906895514 32.1194384732029,59.4991391135439 32.1270942496123,59.4915121375873 32.1297322503805,59.4830555555555 32.1270942496123,59.4745968554859 32.1194384732029,59.4669643344342 32.1075143218882,59.4609059043123 32.0924890146793,59.4570155802551 32.0758333333333,59.4556749622279 32.0591776519873,59.4570155802551 32.0441523447785,59.4609059043123 32.0322281934638,59.4669643344342 32.0245724170544,59.4745968554859 32.0219344162862,59.4830555555555 32.0245724170544,59.4915121375873 32.0322281934638,59.4991391135439 32.0441523447785,59.5051906895514 32.0591776519873,59.5090754685138 32.0758333333333,59.5104139685033</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP35</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 893 м от земли</SimpleData>
+		<SimpleData name="Owner">Служба охраны по Северо-Западному федеральному округу ФСО России</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3922222222222,59.9233911686748 30.3949981691132,59.9231708256338 30.3975023869814,59.9225313569382 30.3994897455338,59.9215353365492 30.4007657082687,59.9202802350709 30.4012053750634,59.9188888888889 30.4007657082687,59.9174974843747 30.3994897455338,59.9162422301808 30.3975023869814,59.915246021025 30.3949981691132,59.9146063996139 30.3922222222222,59.9143859982408 30.3894462753312,59.9146063996139 30.3869420574631,59.915246021025 30.3849546989106,59.9162422301808 30.3836787361757,59.9174974843747 30.383239069381,59.9188888888889 30.3836787361757,59.9202802350709 30.3849546989106,59.9215353365492 30.3869420574631,59.9225313569382 30.3894462753312,59.9231708256338 30.3922222222222,59.9233911686748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP36</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 888 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.4316666666667,59.925402481561 30.4349978029359,59.9251380857636 30.4380028643776,59.9243707673447 30.4403876946406,59.9231756055447 30.4419188499225,59.9216695525205 30.4424464500761,59.92 30.4419188499225,59.918330363483 30.4403876946406,59.9168240905534 30.4380028643776,59.9156286569353 30.4349978029359,59.9148611186109 30.4316666666667,59.9145966388171 30.4283355303975,59.9148611186109 30.4253304689557,59.9156286569353 30.4229456386928,59.9168240905534 30.4214144834109,59.918330363483 30.4208868832572,59.92 30.4214144834109,59.9216695525205 30.4229456386928,59.9231756055447 30.4253304689557,59.9243707673447 30.4283355303975,59.9251380857636 30.4316666666667,59.925402481561</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP37</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 3048 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.0627777777778,59.8738729895683 30.0738815653418,59.8729902936561 30.0838984368144,59.8704284776547 30.0918478710242,59.8664379625557 30.0969517219638,59.8614089383106 30.0987103891426,59.8558333333334 30.0969517219638,59.8502567938658 30.0918478710242,59.8452253230935 30.0838984368144,59.8412317839204 30.0738815653418,59.8386675213918 30.0627777777778,59.8377838909893 30.0516739902138,59.8386675213918 30.0416571187412,59.8412317839204 30.0337076845314,59.8452253230935 30.0286038335918,59.8502567938658 30.026845166413,59.8558333333334 30.0286038335918,59.8614089383106 30.0337076845314,59.8664379625557 30.0416571187412,59.8704284776547 30.0516739902138,59.8729902936561 30.0627777777778,59.8738729895683</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP38</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 2001 м от земли</SimpleData>
+		<SimpleData name="Owner">АО «82 СРЗ»</SimpleData>
+		<SimpleData name="Contacts">т. (8152) 47-01-59, (960) 020-33-83, (960) 020-34-02</SimpleData>
+		<SimpleData name="Address">184635, г. Мурманск, жилой р-н Росляково, ул. Заводская</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.1775,69.06 33.2188888888889,69.0630555555555 33.2372222222222,69.0555555555556 33.1997222222222,69.0516666666666 33.1775,69.06</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP39</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 896 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3969444444444,59.9524089608939 30.4008307700918,59.9521007500339 30.4043366751072,59.9512062710516 30.4071189770807,59.9498130392937 30.4089053249095,59.9480573814712 30.4095208584221,59.9461111111111 30.4089053249095,59.9441647264824 30.4071189770807,59.9424087695007 30.4043366751072,59.9410151679618 30.4008307700918,59.9401203898203 30.3969444444444,59.9398120646917 30.393058118797,59.9401203898203 30.3895522137816,59.9410151679618 30.3867699118082,59.9424087695007 30.3849835639794,59.9441647264824 30.3843680304668,59.9461111111111 30.3849835639794,59.9480573814712 30.3867699118082,59.9498130392937 30.3895522137816,59.9512062710516 30.393058118797,59.9521007500339 30.3969444444444,59.9524089608939</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 893 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3733333333333,59.9537312016792 30.3766644696025,59.9534670316571 30.3796695310443,59.9527003684701 30.3820543613072,59.9515062272377 30.3835855165891,59.9500014602387 30.3841131167428,59.9483333333333 30.3835855165891,59.9466651224792 30.3820543613072,59.9451601356996 30.3796695310443,59.9439657228035 30.3766644696025,59.9431988398359 30.3733333333333,59.942934585865 30.3700021970641,59.9431988398359 30.3669971356224,59.9439657228035 30.3646123053594,59.9451601356996 30.3630811500775,59.9466651224792 30.3625535499239,59.9483333333333 30.3630811500775,59.9500014602387 30.3646123053594,59.9515062272377 30.3669971356224,59.9527003684701 30.3700021970641,59.9534670316571 30.3733333333333,59.9537312016792</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP41</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 887 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3019444444444,59.9409555045345 30.3052755807136,59.9406912326841 30.3082806421554,59.9399242739772 30.3106654724184,59.9387296724526 30.3121966277002,59.9372243254359 30.3127242278539,59.9355555555556 30.3121966277002,59.9338867017049 30.3106654724184,59.9323811348513 30.3082806421554,59.9311862615934 30.3052755807136,59.9304190830495 30.3019444444444,59.9301547272289 30.2986133081752,59.9304190830495 30.2956082467335,59.9311862615934 30.2932234164705,59.9323811348513 30.2916922611887,59.9338867017049 30.291164661035,59.9355555555556 30.2916922611887,59.9372243254359 30.2932234164705,59.9387296724526 30.2956082467335,59.9399242739772 30.2986133081752,59.9406912326841 30.3019444444444,59.9409555045345</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP42</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 884 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.3363888888889,59.9256130894201 30.3391648357799,59.9253927611338 30.341669053648,59.9247533352584 30.3436564122005,59.9237573815645 30.3449323749354,59.9225023641287 30.3453720417301,59.9211111111111 30.3449323749354,59.9197197997639 30.3436564122005,59.9184646296194 30.341669053648,59.9174684871671 30.3391648357799,59.916828908583 30.3363888888889,59.9166085219671 30.3336129419979,59.916828908583 30.3311087241297,59.9174684871671 30.3291213655773,59.9184646296194 30.3278454028424,59.9197197997639 30.3274057360477,59.9211111111111 30.3278454028424,59.9225023641287 30.3291213655773,59.9237573815645 30.3311087241297,59.9247533352584 30.3336129419979,59.9253927611338 30.3363888888889,59.9256130894201</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP43</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 199 м от земли</SimpleData>
+		<SimpleData name="Owner">ФСО по СЗ</SimpleData>
+		<SimpleData name="Contacts">т. (812) 273-63-53, ф. (812) 579-77-80</SimpleData>
+		<SimpleData name="Address">191015, г. Санкт-Петербург, ул. Шпалерная, д. 45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>30.025,59.7465531169114 30.030551893782,59.746110082899 30.0355603295183,59.7448243148615 30.0395350466232,59.742821585665 30.042086972093,59.7402978287687 30.0429663056824,59.7375 30.042086972093,59.73470193706 30.0395350466232,59.7321775670954 30.0355603295183,59.7301740801047 30.030551893782,59.7288876989989 30.025,59.7284444308152 30.019448106218,59.7288876989989 30.0144396704817,59.7301740801047 30.0104649533768,59.7321775670954 30.007913027907,59.73470193706 30.0070336943176,59.7375 30.007913027907,59.7402978287687 30.0104649533768,59.742821585665 30.0144396704817,59.7448243148615 30.019448106218,59.746110082899 30.025,59.7465531169114</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP45</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 352 м от земли</SimpleData>
+		<SimpleData name="Owner">ФГКУ «Войсковая часть 49911»</SimpleData>
+		<SimpleData name="Contacts">т. (8112) 677-808, 677-809, (911) 399-30-21</SimpleData>
+		<SimpleData name="Address">180502, Псковская обл., Псковский р-н, дер. Георгиевская</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>28.2188888888889,57.812071884657 28.2244407826709,57.8116034623914 28.2294492184072,57.8102440135802 28.2334239355121,57.8081265203526 28.2359758609819,57.80545814621 28.2368551945713,57.8025 28.2359758609819,57.7995416112198 28.2334239355121,57.7968726020202 28.2294492184072,57.7947543238191 28.2244407826709,57.7933942399509 28.2188888888889,57.7929255751151 28.2133369951069,57.7933942399509 28.2083285593706,57.7947543238191 28.2043538422657,57.7968726020202 28.2018019167959,57.7995416112198 28.2009225832065,57.8025 28.2018019167959,57.80545814621 28.2043538422657,57.8081265203526 28.2083285593706,57.8102440135802 28.2133369951069,57.8116034623914 28.2188888888889,57.812071884657</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP46</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 2012 м от земли</SimpleData>
+		<SimpleData name="Owner">Росатом</SimpleData>
+		<SimpleData name="Contacts">т. (495) 933-60-44, (499) 949-23-11, 949-23-61, ф. (495) 933-60-45, (499) 949-24-35</SimpleData>
+		<SimpleData name="Address">119017, г. Москва, ул. Б. Ордынка, 24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>39.5130555555556,68.0874376172539 39.5408150244655,68.0857967610317 39.565857203147,68.0810341493262 39.5857307886715,68.0736142476531 39.5984904160205,68.064261225851 39.6028870839675,68.0538888888889 39.5984904160205,68.0435118897001 39.5857307886715,68.0341466620298 39.565857203147,68.0267116730735 39.5408150244655,68.0219368554994 39.5130555555556,68.0202913370502 39.4852960866456,68.0219368554994 39.4602539079641,68.0267116730735 39.4403803224396,68.0341466620298 39.4276206950906,68.0435118897001 39.4232240271436,68.0538888888889 39.4276206950906,68.064261225851 39.4403803224396,68.0736142476531 39.4602539079641,68.0810341493262 39.4852960866456,68.0857967610317 39.5130555555556,68.0874376172539</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP47</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="heights, m">0 – 175 м от земли</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>33.6644444444444,57.8899049196143 33.6766586107648,57.8888766076197 33.6876771693847,57.8858921634583 33.6964215470155,57.8812432893391 33.702035783049,57.8753845104899 33.7039703169457,57.8688888888889 33.702035783049,57.8623920945552 33.6964215470155,57.8565302454521 33.6876771693847,57.8518775762904 33.6766586107648,57.8488900618752 33.6644444444444,57.847860577148 33.6522302781241,57.8488900618752 33.6412117195042,57.8518775762904 33.6324673418734,57.8565302454521 33.6268531058399,57.8623920945552 33.6249185719432,57.8688888888889 33.6268531058399,57.8753845104899 33.6324673418734,57.8812432893391 33.6412117195042,57.8858921634583 33.6522302781241,57.8888766076197 33.6644444444444,57.8899049196143</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>ULP19</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#111111111">
+		<SimpleData name="Owner">войсковая часть 31600</SimpleData>
+		<SimpleData name="Contacts">т. (495) 696-31-01, (495) 696-07-40</SimpleData>
+		<SimpleData name="Address">119160, г. Москва</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>63.7522222222222,67.6207302971511 63.7577741160042,67.6203955009631 63.7627825517405,67.6194238576798 63.7667572688454,67.6179104080812 63.7693091943152,67.6160032120902 63.7701885279046,67.6138888888889 63.7693091943152,67.6117743762434 63.7667572688454,67.6098666842811 63.7627825517405,67.6083526216282 63.7577741160042,67.6073804823737 63.7522222222222,67.6070454967414 63.7466703284402,67.6073804823737 63.7416618927039,67.6083526216282 63.737687175599,67.6098666842811 63.7351352501292,67.6117743762434 63.7342559165398,67.6138888888889 63.7351352501292,67.6160032120902 63.737687175599,67.6179104080812 63.7416618927039,67.6194238576798 63.7466703284402,67.6203955009631 63.7522222222222,67.6207302971511</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
